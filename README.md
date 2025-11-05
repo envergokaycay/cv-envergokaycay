@@ -1,3 +1,3 @@
 <a href="https://github.com/envergokaycay/cv-envergokaycay/raw/main/Enver%20Gokay%20Cay%20CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📄_Download%20My%20CV-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📄_Download%20My%20CV-blue?style=for-the-badge" />
 </a>
